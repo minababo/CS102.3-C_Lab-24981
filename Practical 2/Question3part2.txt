@@ -1,0 +1,1 @@
+Using floating-point variables in the program allows us to store distance and time values with more precise decimal precision. This ensures that when calculating the average speed, the result will be more accurate and include decimal values, providing a more precise representation of the speed.
